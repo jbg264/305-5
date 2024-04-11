@@ -2,3 +2,4 @@
 
 ## Contributors:
 - Aadarsha Bastola
+- Gary Weaver
